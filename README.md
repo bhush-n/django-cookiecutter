@@ -36,8 +36,8 @@ Generated with [cookiecutter-django](https://github.com/cookiecutter/cookiecutte
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mandakini-crm.git
-cd mandakini-crm
+git clone https://github.com/yourusername/django-cookiecutter.git
+cd django-cookiecutter
 ````
 
 ### 2. Set Up Environment Variables
